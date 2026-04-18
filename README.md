@@ -1,2 +1,2 @@
-# Control_Universidad
+# Control Universidad
 Control Universidad Demo
